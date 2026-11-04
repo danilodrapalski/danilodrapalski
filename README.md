@@ -8,9 +8,7 @@ Aprendendo na prática e transformando ideias em código.
 
 [![GitHub](https://img.shields.io/badge/GitHub-danilodrapalski-181717?style=for-the-badge&logo=github)](https://github.com/danilodrapalski)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilodrapalski@gmail.com)
-<!-- Adicione seus outros contatos abaixo, descomentando e trocando pelo seu link:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danilodrapalski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilodrapalski/)
 
 </div>
 
