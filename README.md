@@ -1,37 +1,84 @@
-# Olá! Eu sou o Danilo 👋
+<div align="center">
 
-🎓 Estudante do Ensino Médio Integrado ao Técnico no SESC/SENAC.
+# 👋 Olá, eu sou o Danilo!
 
-💻 Tenho interesse em desenvolvimento de software e tecnologia. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades por meio de estudos e projetos práticos.
+### 💻 Estudante de Programação | Desenvolvedor em formação
 
-## 🚀 Tecnologias e conhecimentos
+Aprendendo na prática e transformando ideias em código.
 
-- **Front-end:** HTML, CSS e JavaScript
-- **Back-end:** PHP e Python
-- **Banco de dados:** MySQL
-- **Informática:** Microsoft Word, Excel e PowerPoint
+[![GitHub](https://img.shields.io/badge/GitHub-danilodrapalski-181717?style=for-the-badge&logo=github)](https://github.com/danilodrapalski)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilodrapalski@gmail.com)
+<!-- Adicione seus outros contatos abaixo, descomentando e trocando pelo seu link:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+-->
 
-## 🛠️ Projetos e experiências
+</div>
 
-### 💾 Sistema de Cadastro de Alunos
-Projeto desenvolvido com PHP e MySQL, com funcionalidades de cadastro, edição e exclusão de registros, incluindo campos para nome, CPF e imagem.
+---
 
-### 🌐 Desenvolvimento Web
-Criação de páginas web utilizando HTML, CSS e JavaScript, explorando estruturação, estilização e interatividade.
+## 🚀 Sobre mim
 
-### 🔬 Iniciação Científica
-Participação em projeto de pesquisa sobre redução do desperdício de medicamentos, com análise de prescrições, organização de dados e avaliação de impactos financeiros.
+Sou estudante do **Ensino Médio Integrado ao Técnico (SESC/SENAC)** e apaixonado por tecnologia e desenvolvimento de software. Gosto de aprender fazendo: criar projetos, errar, corrigir e evoluir a cada um deles.
 
-## 📚 Atualmente
+- 🎓 Cursando Ensino Médio Integrado ao Técnico
+- 💡 Foco em desenvolvimento web e back-end
+- 🌱 Sempre aprendendo novas tecnologias
+- 🎯 Buscando oportunidade de estágio ou projetos para ganhar experiência prática
 
-- Aprimorando meus conhecimentos em programação.
-- Desenvolvendo projetos práticos para aplicar o que aprendo.
-- Explorando novas tecnologias e ferramentas de desenvolvimento.
+---
 
-## 🎯 Objetivo
+## 🛠️ Tecnologias e ferramentas
 
-Busco uma oportunidade de estágio para aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo na área de tecnologia.
+<div align="center">
 
-## 📫 Contato
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css,mysql,git,github,vscode" alt="Python, JavaScript, PHP, HTML, CSS, MySQL, Git, GitHub e VS Code" />
 
-- **E-mail:** danilodrapalski@gmail.com
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- 🐍 Aplicações com Python
+- 🐘 PHP integrado ao MySQL
+- ⚡ JavaScript e manipulação do DOM
+- 🌐 Desenvolvimento web e boas práticas de programação
+- 🧩 Lógica de programação e resolução de problemas
+
+---
+
+## 📂 Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| Sistema de gerenciamento | CRUD completo: cadastro, edição, listagem e exclusão de registros. | PHP, MySQL |
+
+<!-- Quando tiver mais projetos, adicione uma linha por projeto, com link para o repositório:
+| [Nome do projeto](https://github.com/danilodrapalski/NOME-DO-REPO) | O que ele faz, em uma frase. | Tecnologias usadas |
+-->
+
+*Em breve, mais projetos serão publicados! Acompanhe meus repositórios. 🚧*
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=danilodrapalski&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Danilo" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=danilodrapalski&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Danilo" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Vamos nos conectar?
+
+Quer trocar uma ideia, indicar uma oportunidade ou colaborar em um projeto? Fique à vontade para entrar em contato!
+
+⭐ *Sempre aprendendo, praticando e construindo algo novo.*
+
+</div>
